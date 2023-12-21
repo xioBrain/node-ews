@@ -9,6 +9,7 @@
   "author": "Nicholas Marus",
   "license": "MIT",
   "dependencies": {
+    "@node-ntlm/httpreq": "^0.3.2",
     "debug": "4.1.1",
     "httpntlm": "~1.7.7",
     "lodash": "4.17.21",
