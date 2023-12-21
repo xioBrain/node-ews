@@ -1,6 +1,6 @@
 {
   "name": "@mamunonweb/node-ews",
-  "version": "3.5.1",
+  "version": "3.5.2",
   "description": "A simple JSON wrapper for the Exchange Web Services (EWS) SOAP API",
   "main": "./index.js",
   "scripts": {
