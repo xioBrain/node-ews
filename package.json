@@ -1,25 +1,24 @@
 {
-  "name": "@mamunonweb/node-ews",
+  "name": "@xiobrain/node-ews",
   "version": "3.5.2",
   "description": "A simple JSON wrapper for the Exchange Web Services (EWS) SOAP API",
   "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nicholas Marus",
   "license": "MIT",
   "dependencies": {
     "@node-ntlm/httpreq": "^0.3.2",
-    "debug": "4.1.1",
+    "debug": "4.3.1",
     "lodash": "4.17.21",
-    "request": "^2.88.0",
-    "soap": "^0.30.0",
+    "request": "^2.88.2",
+    "soap": "^1.1.6",
     "tmp": "0.0.28",
     "when": "3.7.7"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nmarus/node-ews.git"
+    "url": "git+https://github.com/xiobrain/node-ews.git"
   },
   "keywords": [
     "node",
@@ -32,7 +31,7 @@
     "json"
   ],
   "bugs": {
-    "url": "https://github.com/nmarus/node-ews/issues"
+    "url": "https://github.com/xiobrain/node-ews/issues"
   },
-  "homepage": "https://github.com/nmarus/node-ews#readme"
+  "homepage": "https://github.com/xiobrain/node-ews#readme"
 }
